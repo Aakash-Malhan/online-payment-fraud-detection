@@ -1,4 +1,4 @@
-Online Payment Fraud Detection (Gradio + XGBoost)
+**Online Payment Fraud Detection (Gradio + XGBoost)**
 
 A production-style fraud detection demo you can run in the browser. Upload a PaySim-style CSV or generate a synthetic but realistic dataset, train on CPU, view PR-AUC / ROC-AUC, confusion matrix, feature importances, and download predictions.
 
